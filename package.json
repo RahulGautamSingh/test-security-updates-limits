@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "express": "1.0.0",
-    "@ansi-styles": "6.2.2"
+    "ansi-styles": "6.2.2"
   }
 }
