@@ -1,0 +1,6 @@
+{
+  "prConcurrentLimit": 100,
+  "vulnerabilityAlerts": {
+    "prConcurrentLimit": 1
+  }
+}
